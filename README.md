@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Testing QA Manual, Redux**
 
-- 👨‍💻 All of my projects are available at Portfolio proximamente!
+- 👨‍💻 All of my projects are available at Portfolio cooming soon!
 
 - 📫 How to reach me **juandsacco@gmail.com**
 
