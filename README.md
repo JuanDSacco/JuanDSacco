@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Juan Sacco</h1>
-<h3 align="center">Me fascina seguir aprendiendo "</>" !</h3>
+<h3 align="center">Me fascina seguir aprendiendo <code/> !</h3>
 
 - 🌱 I’m currently learning **Testing QA Manual, Redux**
 
