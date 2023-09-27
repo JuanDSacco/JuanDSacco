@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Mi nombre es Juan Sacco</h1>
 <h3 align="center">Me fascina seguir aprendiendo! - Buenos Aires, Argentina </h3>
 
-- 🌱 I’m currently learning **Redux, Redux Persist, CRUD**
+- 🌱 I’m currently learning **Redux, Redux Persist**
 
 - 👨‍💻 All of my projects are available at Portfolio coming soon!
 
